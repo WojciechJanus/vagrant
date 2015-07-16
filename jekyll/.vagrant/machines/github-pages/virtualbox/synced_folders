@@ -1,0 +1,1 @@
+{"virtualbox":{"/srv/www":{"create":true,"guestpath":"/srv/www","hostpath":"F:/vagrant/jekyll/www","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"F:/vagrant/jekyll","disabled":false}}}
